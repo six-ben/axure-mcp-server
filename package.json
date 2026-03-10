@@ -1,6 +1,6 @@
 {
   "name": "axure-mcp-server",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "MCP server for extracting text and images from public Axure share links.",
   "type": "module",
   "main": "dist/index.js",
