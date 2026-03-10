@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "axure-mcp": {
+      "command": "node",
+      "args": [
+        "/Users/55haitao/Desktop/axure-mcp-server/dist/index.js"
+      ]
+    }
+  }
+}
